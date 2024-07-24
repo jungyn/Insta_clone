@@ -1,0 +1,14 @@
+관리자 로그인
+admin
+boricha457
+
+로그인 샘플
+이메일 : ccomi@ccomi.com
+비번 : 1234
+
+정지계정 샘플
+이메일 : user99@example.com
+비번 : 9999
+
+
+업로드 파일 저장 폴더-> static/images
